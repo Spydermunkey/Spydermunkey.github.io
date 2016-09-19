@@ -25,6 +25,6 @@ li.nav a {
 	
 }
 
-button:hover, button:focus {
+button.nav:hover, button.nav:focus {
 	background: #356094;
 }
