@@ -1,0 +1,30 @@
+button {
+	padding: 10px 10px;
+	background: #4479BA;
+	color: #FFF;
+	border: 0px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: #4479BA;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: #FFF;
+	text-align: center;
+	text-decoration: none;
+	
+}
+
+button:hover, button:focus {
+	background: #356094;
+}
