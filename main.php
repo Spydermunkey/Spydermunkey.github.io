@@ -1,8 +1,13 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="main.css">
-		<link rel="import" href="navbar.html">
 	</head>
+
+	<header>
+		<?php
+			#include file="navbar.html"
+		?>
+	</header>
 
 	<body>
 	</body>
