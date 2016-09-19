@@ -3,5 +3,9 @@
 }
 
 #welcome {
-	font-size: 250%;
+	font-size: 150%;
+}
+
+#continue {
+	background-color: #89CFF0;
 }
