@@ -2,6 +2,7 @@ button {
 	padding: 10px 10px;
 	background: #4479BA;
 	color: #FFF;
+	border: 0px;
 }
 
 ul {
@@ -9,7 +10,7 @@ ul {
 	margin: 0px;
 	padding: 0px;
 	overflow: hidden;
-	background-color: #356094;
+	background-color: #4479BA;
 }
 
 li {
@@ -24,6 +25,6 @@ li a {
 	
 }
 
-li a:hover, li a:focus {
+button:hover, button:focus {
 	background: #356094;
 }
