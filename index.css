@@ -13,6 +13,11 @@
 	user-select: none;
 }
 
+body {
+	background-image: url("images/background1.gif");
+	filter: blur(3px);
+}
+
 #welcome {
 	font-family: "Verdana";
 	font-size: 200%;
