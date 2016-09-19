@@ -11,5 +11,5 @@
 #welcome {
 	font-size: 200%;
 	
-	transform: translate(0%, 20px);
+	transform: translate(0, -20px);
 }
