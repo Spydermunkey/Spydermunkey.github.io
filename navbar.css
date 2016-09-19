@@ -1,11 +1,11 @@
-button {
+#home, #blog, #aboutus, #media {
 	padding: 10px 10px;
 	background: #4479BA;
 	color: #FFF;
 	border: 0px;
 }
 
-ul {
+#list {
 	list-style-type: none;
 	margin: 0px;
 	padding: 0px;
@@ -13,11 +13,11 @@ ul {
 	background-color: #4479BA;
 }
 
-li {
+li.nav {
 	float: left;
 }
 
-li a {
+li.nav a {
 	display: block;
 	color: #FFF;
 	text-align: center;
