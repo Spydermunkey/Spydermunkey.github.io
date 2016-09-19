@@ -3,9 +3,7 @@ button.nav {
 	background: #4479BA;
 	color: #FFF;
 	border: 0px;
-	width: 100%;
-	padding: 0px;
-	margin: 0px;
+	padding: 10px 10px;
 }
 
 #list {
@@ -14,6 +12,7 @@ button.nav {
 	padding: 0px;
 	overflow: hidden;
 	background-color: #4479BA;
+	width: 100%;
 }
 
 li.nav {
