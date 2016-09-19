@@ -3,3 +3,9 @@ button {
 	background: #4479BA;
 	color: #FFF;
 }
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
