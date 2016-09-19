@@ -16,6 +16,9 @@
 #background {
 	filter: blur(3px);
 	-webkit-filter: blur(3px);
+	height: 100%;
+	width: auto;
+	height: auto;
 }
 
 #welcome {
