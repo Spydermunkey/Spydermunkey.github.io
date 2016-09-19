@@ -1,4 +1,4 @@
-#home, #blog, #aboutus, #media {
+button.nav {
 	padding: 10px 10px;
 	background: #4479BA;
 	color: #FFF;
@@ -25,6 +25,6 @@ li.nav a {
 	
 }
 
-button.nav:hover, button.nav:focus {
+#home:hover, #blog:hover, #media:hover, #aboutus:hover, #home:focus, #blog:focus, #media:focus, #aboutus:focus {
 	background: #356094;
 }
