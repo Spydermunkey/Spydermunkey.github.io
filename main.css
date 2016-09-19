@@ -2,14 +2,29 @@ button {
 	padding: 10px 10px;
 	background: #4479BA;
 	color: #FFF;
+	background-color: 
 }
 
 ul {
 	list-style-type: none;
 	margin: 0px;
 	padding: 0px;
+	overflow: hidden;
+	background-color: #356094;
 }
 
 li {
+	float: left;
+}
+
+li a {
 	display: block;
+	color: #FFF;
+	text-align: center;
+	text-decoration: none;
+	
+}
+
+li a:hover, li a:focus {
+	background: #356094;
 }
