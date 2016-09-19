@@ -46,4 +46,6 @@
     border: solid 1px #203E5F;
 }
 
-
+::selection {
+	color: rgba(1, 1, 1, 1);
+}
