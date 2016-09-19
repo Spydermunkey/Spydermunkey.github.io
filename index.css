@@ -10,10 +10,6 @@
 
 #welcome {
 	font-size: 200%;
-}
-
-#continue {
-	background-color: #89CFF0;
-	color: #FFFFFF;
 	
+	transform: translate(0%, 20px);
 }
