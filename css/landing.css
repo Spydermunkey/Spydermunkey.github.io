@@ -11,14 +11,9 @@
 
 	margin: 0px;
 	padding: 0px;
-}
 
-#background {
-	filter: blur(1px);
-	-webkit-filter: blur(1px);
-
-	height: 100%;
-	width: 100%;
+	background-color: #F5F5F5;
+	opacity: 0;
 }
 
 #welcome {
@@ -63,4 +58,17 @@
 	
 	background: #2E5481;
 	border: solid 1px #203E5F;
+}
+
+#welcome, #continue {
+	animation: fade 1s ease-in;
+}
+
+@keyframes fade {
+	from {
+		opacity: 0%;
+	}
+	to {
+		opacity: 100%;
+	}
 }
